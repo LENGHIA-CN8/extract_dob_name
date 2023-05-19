@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "terminal.integrated.env.osx": {"PYTHONPATH": "${abc}"}
+}
