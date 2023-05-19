@@ -3,3 +3,4 @@
 /Name_Extract/log
 .ipynb_checkpoints
 __pycache__
+*.yaml

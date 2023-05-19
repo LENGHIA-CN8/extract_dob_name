@@ -1,3 +1,0 @@
-model: ./Name_Extract/tmp/checkpoint-7425
-device: cuda:0
-tokenizer: VietAI/vit5-base
